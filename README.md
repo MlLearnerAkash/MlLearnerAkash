@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @MlLearnerAkash
 - 👀 I’m working proffesional in Machine Learning specialisation in Computer Vision
 - 🌱 I’m currently working on Unsupervised ML for computer vision
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Quantum Machine Learning
 - 📫 How to reach me :https://www.linkedin.com/in/akash-manna-5b8669205/
 
 <!---
