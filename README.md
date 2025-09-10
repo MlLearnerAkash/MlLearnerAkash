@@ -1,9 +1,8 @@
 
 
 - 👋 Hi, I’m @MlLearnerAkash
-- 👀 I’m working proffesional in Machine Learning specialisation in Computer Vision
-- 🌱 I’m currently working on Unsupervised ML for computer vision
-- 💞️ I’m looking to collaborate on Quantum Machine Learning
+- Currently, I am persuing PhD @CVIT, IIIT-Hyd
+- 👀 I am looking for collaboration on VLM and Multi-Modal and robot perception
 - 📫 How to reach me :https://www.linkedin.com/in/akash-manna-5b8669205/
 
 <!---
